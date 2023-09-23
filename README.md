@@ -1,2 +1,2 @@
 # Theory_tasks_29Week_react
-Contex в react
+Context в react
